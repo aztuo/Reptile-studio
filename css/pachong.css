@@ -19,10 +19,14 @@ a{
 	box-shadow:0 2px 5px #888888;
 	position: fixed;
 }
+.daohang .row .logo{
+	font-size: 20px;
+	color: white;
+}
 .daohang a{
 	font-size: 16px;
 	text-decoration: none;
-	color: white;
+	
 }
 .tupian{
 	width: 100%;
@@ -44,4 +48,8 @@ a{
 	right: 40%;
 	top:30%;
 	color: white;
+}
+ul li a{
+	text-decoration:none;
+	color: black;
 }
